@@ -12,5 +12,6 @@
 
 ## Hyperparameters
 * Hyperparameters are defined at the starting of each notebook
-* you can play with them to try out different versions (which ever works best for you).
+* you can play with them to try out different versions (which ever works best for you)
+
 
